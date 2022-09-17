@@ -1,0 +1,14 @@
+
+public class second {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+          scanner scan=new scanner(System.in);
+		int a =scan.next int();
+		int b=scan.next int();
+		int c=a+b;
+		sytem.out.println(c)
+
+	}
+
+}
